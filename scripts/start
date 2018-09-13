@@ -1,0 +1,12 @@
+#!/usr/bin/env bash -e
+
+# Yarn has some bugs running some scripts
+
+IP=${COOKIE_DOMAIN:-127.0.0.1}
+PORT=8080
+if nc $IP $PORT < /dev/null; then
+  echo "${IP}:${PORT} has already been used"
+  exit 1
+fi
+
+yarn && node_modules/http-server/bin/http-server ./docs -o

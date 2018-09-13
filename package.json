@@ -1,0 +1,16 @@
+{
+  "name": "r-and-d-docs",
+  "version": "1.0.0",
+  "description": "Documents for R&D team",
+  "repository": "git@github.com:quipper/r-and-d-docs.git",
+  "author": "Quipper, Ltd.",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "node": "^6.12.0"
+  },
+  "scripts": {
+    "start": "scripts/start"
+  }
+}
