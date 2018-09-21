@@ -11,7 +11,7 @@
 - 「タイトル非公開」(発表20分+質疑10分)
 
 ### New face talks(19:30〜20:30)
-- 「「ペアプロ・モブプロ」でいくつか実体験を交えて何か」(発表20分+質疑10分）
+- 「[ペアプロ・モブプロ」でいくつか実体験を交えて何か](https://docs.google.com/presentation/d/1TZBEb3ZLrEYGYkcbsgfd090b31oT9NtKZbvuY8wMluk/edit?usp=sharing)」(発表20分+質疑10分）/[@RRR-TTT](https://github.com/RRR-TTT)
 - 「Vue CLI2 =>3にした話」(発表20分+質疑10分）
 
 ### General talks(20:30〜21:00)
