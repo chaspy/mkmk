@@ -11,6 +11,6 @@
 - 「豪華客船の旅」
 
 ### General talks(19:30〜21:00)
-- 「vue.js入門」
+- 「[Vue.jsに入門してみた](https://docs.google.com/presentation/d/1FIw5ud0T0_qzMg8MhWSKcsCT-po6kNYS_gqKtPi4kPU/edit) / [@RRR-TTT](https://github.com/RRR-TTT)
 - 「給与明細から読み解く！日本の社会保障制度」
 - 「Apple信者のスマートホーム」
