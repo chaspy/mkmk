@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
+* [vol.8](vol8.md)
 * [vol.7](vol7.md)
 * [vol.6](vol6.md)
 * [vol.5](vol5.md)
