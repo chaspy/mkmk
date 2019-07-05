@@ -1,7 +1,7 @@
 # vol.10
 
 ## When
-- Mar. 23th, 2019
+- May. 23th, 2019
 
 ## Where
 - Otemachi
