@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "http-server": "0.12.3",
-    "node": "6.17.1"
+    "node": "18.20.0"
   },
   "scripts": {
     "start": "scripts/start"
